@@ -1,7 +1,5 @@
 # MegaBlog - A React Blog Application
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://megablogreact.netlify.app/)
-
 **MegaBlog** is a full-featured blogging platform built using React and modern web technologies. It allows users to read and explore posts. Check out the live demo [here](https://megablogreact.netlify.app/).
 
 ## Features
